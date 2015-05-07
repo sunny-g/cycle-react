@@ -1,3 +1,7 @@
+# RENAMED
+
+**react-rx** is now [cycle-react](https://github.com/pH200/cycle-react)
+
 # cycle-react
 
 An [RxJS Observable](https://github.com/Reactive-Extensions/RxJS) interface
